@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi Folks 👋
 
 <!--
 **andriiginting/andriiginting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Andri Ginting, currently working at **Gojek** as a Product Engineer focusing on Android Application. Working closely with **Customer Platfrom** to improve Customer Experience for Gojek App. Before that, I spend time with **Growth Platform** team to build growth tools covering experimentation, discovery, personalization, and promotions at a scale that spans across 20 products and **GoLife** team to build and deliver a good quality of GoLife apps. 
+
+Apart from that I'm also **Code Reviewer** at [Dicoding Academy](https://dicoding.com), Co-Organizer of **GDG Cloud Jakarta**, and I was former **DSC Lead Indonesia**
+
+### 💬 Reach me :coffee:
+Linkedin : https://linkedin.com/in/andriiginting
+
+![Andri's github stats](https://github-readme-stats.vercel.app/api?username=andriiginting&show_icons=true&hide=["prs","issues","contribs"])
