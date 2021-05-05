@@ -29,3 +29,5 @@ Linkedin : https://linkedin.com/in/andriiginting
 Medium : https://medium.com/@andris.ginting
 
 ![Andri's github stats](https://github-readme-stats.vercel.app/api?username=andriiginting&show_icons=true&hide=["prs","issues","contribs"])
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andriiginting" alt="andriiginting" /> </p>
