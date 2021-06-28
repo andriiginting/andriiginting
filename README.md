@@ -22,11 +22,16 @@ Apart from that I'm also:
     - [Belajar Fudamental Aplikasi Android/ Menjadi Android Developer Expert](https://www.dicoding.com/academies/14)
 -  Co-Organizer of **GDG Cloud Jakarta** 
 -  Former **DSC Lead Indonesia**
+-  One of content creator of **learnmakeapp** 
+     - [learnmakeapp YouTube](https://www.youtube.com/channel/UC7CAmna4bcOtl1tCfsVHjCQ)
+     - [learnmakeapp Website](https://learnmake.app)
+     - [learnmakeapp Instagram](https://www.instagram.com/learnmake.app/)
+ - Starting my own content on Instagram [Check this out](https://www.instagram.com/andriiginting/)
 
 ### 💬 Reach me :coffee:
-Linkedin : https://linkedin.com/in/andriiginting
-
-Medium : https://medium.com/@andris.ginting
+[Linkedin](https://linkedin.com/in/andriiginting)
+[Medium](https://medium.com/@andris.ginting)
+[Instagram](https://www.instagram.com/andriiginting/)
 
 ![Andri's github stats](https://github-readme-stats.vercel.app/api?username=andriiginting&show_icons=true&hide=["prs","issues","contribs"])
 
