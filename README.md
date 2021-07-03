@@ -3,6 +3,10 @@
 <a href="https://linkedin.com/in/andriigintig">
   <img align="left" alt="Andrii's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://medium.com/@andris.ginting">
+  <img align="left" alt="Andrii's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
 <a href="https://github.com/andriiginting">
   <img align="left" alt="Andrii's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -25,10 +29,8 @@
      - [learnmakeapp Website](https://learnmake.app)
      - [learnmakeapp Instagram](https://www.instagram.com/learnmake.app/)
 
-### 💬 Reach me :coffee:
-[Linkedin](https://linkedin.com/in/andriiginting)
-[Medium](https://medium.com/@andris.ginting)
-[Instagram](https://www.instagram.com/andriiginting/)
+<br/>
+<br/> 
 
 ![Andri's github stats](https://github-readme-stats.vercel.app/api?username=andriiginting&show_icons=true&hide=["prs","issues","contribs"])
 
