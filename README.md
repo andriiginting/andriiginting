@@ -1,22 +1,20 @@
-### Hi Folks 👋
+### Hi Folks, I'm Andri 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andriiginting" alt="andriiginting" /> </p>
+<a href="https://linkedin.com/in/andriigintig">
+  <img align="left" alt="Andrii's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/andriiginting">
+  <img align="left" alt="Andrii's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/andriiginting/">
+  <img align="left" alt="Andrii's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-<!--
-**andriiginting/andriiginting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+<br/>
+<br/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I am Andri Ginting, currently working at **Gojek** as a Product Engineer focusing on Android Application. Working closely with **Customer Platfrom** to improve Customer Experience for Gojek App. Before that, I spend time with **Growth Platform** team to build growth tools covering experimentation, discovery, personalization, and promotions at a scale that spans across 20 products and **GoLife** team to build and deliver a good quality of GoLife apps. 
-
-Apart from that I'm also:
+- Mobile Engineer at [**Gojek**](https://www.gojek.io/)
+- Starting my own content on Instagram [Check this out](https://www.instagram.com/andriiginting/)
 -  **Code Reviewer** at [Dicoding Academy](https://dicoding.com) 
     - [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129)
     - [Belajar Fudamental Aplikasi Android/ Menjadi Android Developer Expert](https://www.dicoding.com/academies/14)
@@ -26,7 +24,6 @@ Apart from that I'm also:
      - [learnmakeapp YouTube](https://www.youtube.com/channel/UC7CAmna4bcOtl1tCfsVHjCQ)
      - [learnmakeapp Website](https://learnmake.app)
      - [learnmakeapp Instagram](https://www.instagram.com/learnmake.app/)
- - Starting my own content on Instagram [Check this out](https://www.instagram.com/andriiginting/)
 
 ### 💬 Reach me :coffee:
 [Linkedin](https://linkedin.com/in/andriiginting)
@@ -35,4 +32,3 @@ Apart from that I'm also:
 
 ![Andri's github stats](https://github-readme-stats.vercel.app/api?username=andriiginting&show_icons=true&hide=["prs","issues","contribs"])
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andriiginting" alt="andriiginting" /> </p>
