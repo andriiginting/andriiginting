@@ -13,6 +13,9 @@
 <a href="https://instagram.com/andriiginting/">
   <img align="left" alt="Andrii's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://bit.ly/channelAndrii">
+  <img align="left" alt="Andrii's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
 <br/>
 <br/> 
