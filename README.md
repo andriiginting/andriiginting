@@ -20,7 +20,7 @@
 <br/>
 <br/> 
 
-- Mobile Engineer at [**Gojek**](https://www.gojek.io/)
+- Lead Mobile Engineer at [**Gojek**](https://www.gojek.io/)
 - Starting my own content on Instagram [Check this out](https://www.instagram.com/andriiginting/)
 -  **Code Reviewer** at [Dicoding Academy](https://dicoding.com) 
     - [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129)
