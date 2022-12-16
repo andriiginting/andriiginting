@@ -20,12 +20,11 @@
 <br/>
 <br/> 
 
-- Lead Mobile Engineer at [**Gojek**](https://www.gojek.io/)
+- Software Engineer
 - Starting my own content on Instagram [Check this out](https://www.instagram.com/andriiginting/)
 -  **Code Reviewer** at [Dicoding Academy](https://dicoding.com) 
     - [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129)
     - [Belajar Fudamental Aplikasi Android/ Menjadi Android Developer Expert](https://www.dicoding.com/academies/14)
--  Co-Organizer of **GDG Cloud Jakarta** 
 -  Former **DSC Lead Indonesia**
 -  One of content creator of **learnmakeapp** 
      - [learnmakeapp YouTube](https://www.youtube.com/channel/UC7CAmna4bcOtl1tCfsVHjCQ)
